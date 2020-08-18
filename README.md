@@ -37,8 +37,6 @@ MIT.
 
 ## Resource code
 
-https://github.com/jian22446688/web-template.git.
-
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
