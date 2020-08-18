@@ -30,7 +30,7 @@
     "lint": "eslint .",
     "pretest": "npm run lint",
     "test": "node ./test/runTest.js",
-    "publish": "vsce publish minor"
+    "publish": "vsce publish patch"
   },
   "devDependencies": {
     "@types/vscode": "^1.48.0",
