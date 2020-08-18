@@ -2,16 +2,16 @@
   "name": "web-template",
   "displayName": "web-template",
   "description": "Common templates in Web Development",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.48.0"
   },
   "publisher": "web-template",
-	"repository": {
-		"type": "git",
-		"url":"https://github.com/jian22446688/web-template.git"
-	},
-	"categories": [
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jian22446688/web-template.git"
+  },
+  "categories": [
     "Other"
   ],
   "activationEvents": [
