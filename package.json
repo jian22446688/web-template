@@ -7,7 +7,11 @@
     "vscode": "^1.48.0"
   },
   "publisher": "web-template",
-  "categories": [
+	"repository": {
+		"type": "git",
+		"url":"https://github.com/jian22446688/web-template.git"
+	},
+	"categories": [
     "Other"
   ],
   "activationEvents": [
